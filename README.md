@@ -9,7 +9,7 @@ This project is a comprehensive monitoring and visualization system designed to 
 ![image](https://github.com/user-attachments/assets/f3388494-6b98-4fc0-a818-327e2160789e)
 
   
-Solution Overview </h1>
+<h1> Solution Overview </h1>
 
 **Initialization:**
 
